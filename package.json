@@ -1,6 +1,6 @@
 {
   "name": "generator-ink-component",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Scaffold out an Ink component",
   "license": "MIT",
   "repository": "vadimdemedes/generator-ink-component",
